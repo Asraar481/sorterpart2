@@ -1,5 +1,5 @@
-#ifndef SORTER_H
-#define SORTER_H
+#ifndef SORTER_THREAD_H
+#define SORTER_THREAD_H
 
 typedef struct rows{
 	struct rows* nextRow;

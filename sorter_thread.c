@@ -8,7 +8,7 @@
 #include <sys/types.h>
 #include <ctype.h>
 #include <pthread.h>
-#include "sorter.h"
+#include "sorter_thread.h"
 #define DEBUG 1
 #define ERRORS 1
 
